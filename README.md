@@ -4,6 +4,8 @@
 
 https://github.com/user-attachments/assets/42ece31d-49bf-45f2-9b93-c67b67ecb1e0
 
+<img width="351" height="545" alt="telemenu" src="https://github.com/user-attachments/assets/3173bd6f-65cb-432e-997a-40c9d754e574" />
+
 ## Features
 - **One-click Teleportation:** Automatically handles navigating through multiple pages of the standard teleport dialog. Just click the region you want to go to.
 - **Color-Coded Highlights:** Nation-specific regions are color-coded for quick visual identification.
